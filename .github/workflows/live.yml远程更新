@@ -1,0 +1,36 @@
+name: 更新
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 1 * * *'
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+
+    - name: 更新
+      run: |
+        # 频道
+        rm -f live/ipv4.txt && wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt -O live/ipv4.txt
+        rm -f live/tv.txt && wget https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output_simple.txt -O live/tv.txt
+        rm -f live/V6.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O live/V6.m3u
+
+    - name: Commit 和 push changes
+      run: |
+          git config --local user.email "actions@126.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          # 即使没有文件改变，也会提交一个空的提交
+          git commit --allow-empty -m "Scheduled workflow run"
+          git pull --rebase
+          git push -f
