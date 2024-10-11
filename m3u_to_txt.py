@@ -44,8 +44,8 @@ def convert_m3u_to_txt(m3u_lines):
     return txt_content  
   
 def main():  
-    m3u_file_path = 'tv/IPTV.m3u'  
-    txt_file_path = 'tv/IPTV.txt'  
+    m3u_file_path = 'tv/tv.m3u'  
+    txt_file_path = 'tv/tv.txt'  
   
     m3u_lines = read_m3u_file(m3u_file_path)  
     txt_content = convert_m3u_to_txt(m3u_lines)  
