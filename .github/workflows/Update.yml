@@ -31,33 +31,33 @@ jobs:
         sed -i '/^\s*$/d' tv/CCTV.m3u
 
         # 卫视源
-        rm -f CNTV.m3u && touch CNTV.m3u
+        rm -f tv/CNTV.m3u && touch tv/CNTV.m3u
         wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV1.m3u && sed -i -n '/卫视频道/,+1p' CNTV1.m3u
         wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV2.m3u && sed -i -n '/数字频道/,+1p' CNTV2.m3u
         wget https://raw.githubusercontent.com/vbskycn/guovin-TV/refs/heads/master/output/mylist.m3u -O CNTV3.m3u && sed -i -n '/港澳台/,+1p' CNTV3.m3u
         wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u -O CNTV4.m3u && sed -i -n '/电影频道/,+1p' CNTV4.m3u
         wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u -O CNTV5.m3u && sed -i -n '/体育频道/,+1p' CNTV5.m3u
         wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u -O CNTV6.m3u && sed -i -n '/综艺频道/,+1p' CNTV6.m3u
-        cat CNTV1.m3u >> CNTV.m3u
-        cat CNTV2.m3u >> CNTV.m3u
-        cat CNTV3.m3u >> CNTV.m3u
-        cat CNTV4.m3u >> CNTV.m3u
-        cat CNTV5.m3u >> CNTV.m3u
-        cat CNTV6.m3u >> CNTV.m3u
+        cat CNTV1.m3u >> tv/CNTV.m3u
+        cat CNTV2.m3u >> tv/CNTV.m3u
+        cat CNTV3.m3u >> tv/CNTV.m3u
+        cat CNTV4.m3u >> tv/CNTV.m3u
+        cat CNTV5.m3u >> tv/CNTV.m3u
+        cat CNTV6.m3u >> tv/CNTV.m3u
         rm -f CNTV1.m3u CNTV2.m3u CNTV3.m3u CNTV4.m3u CNTV5.m3u CNTV6.m3u
-        sed -i '1i #EXTM3U' CNTV.m3u
-        sed -i '/^\s*$/d' CNTV.m3u
+        sed -i '1i #EXTM3U' tv/CNTV.m3u
+        sed -i '/^\s*$/d' tv/CNTV.m3u
 
         # 整合源
-        rm -f IPTV.m3u && touch IPTV.m3u
-        cat CCTV.m3u >> IPTV.m3u
-        cat CNTV.m3u >> IPTV.m3u
-        sed -i '/#EXTM3U/d' IPTV.m3u
-        sed -i '1i #EXTM3U' IPTV.m3u
-        sed -i '/^\s*$/d' IPTV.m3u
+        rm -f tv/IPTV.m3u && touch tv/IPTV.m3u
+        cat tv/CCTV.m3u >> tv/IPTV.m3u
+        cat tv/CNTV.m3u >> tv/IPTV.m3u
+        sed -i '/#EXTM3U/d' tv/IPTV.m3u
+        sed -i '1i #EXTM3U' tv/IPTV.m3u
+        sed -i '/^\s*$/d' tv/IPTV.m3u
 
         # 节目源
-        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+        rm -f tv/EPG.xml && wget https://epg.112114.xyz/pp.xml -O tv/EPG.xml
         echo "Auto Update in $DATE." > README.md
 
     - name: Commit 和 push changes
