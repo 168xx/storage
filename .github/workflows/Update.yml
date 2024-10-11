@@ -25,10 +25,10 @@ jobs:
     - name: Update
       run: |
         # 央视源
-        rm -f CCTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CCTV.m3u
-        sed -i -n '/央视频道/,+1p' CCTV.m3u
-        sed -i '1i #EXTM3U' CCTV.m3u
-        sed -i '/^\s*$/d' CCTV.m3u
+        rm -f tv/CCTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O tv/CCTV.m3u
+        sed -i -n '/央视频道/,+1p' tv/CCTV.m3u
+        sed -i '1i #EXTM3U' tv/CCTV.m3u
+        sed -i '/^\s*$/d' tv/CCTV.m3u
 
         # 卫视源
         rm -f CNTV.m3u && touch CNTV.m3u
