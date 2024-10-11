@@ -3,7 +3,7 @@ name: Convert M3U to TXT
 on:  
   push:  
     paths:  
-      - 'IPTV.m3u'  # 当IPTV.m3u文件发生变化时触发  
+      - 'tv/IPTV.m3u'  # 当IPTV.m3u文件发生变化时触发  
   workflow_dispatch:  # 手动触发  
   
 jobs:  
@@ -34,6 +34,6 @@ jobs:
       run: |  
         git config --local user.name 'github-actions'  
         git config --local user.email 'github-actions@github.com'  
-        git add IPTV.txt  
-        git commit -m 'Automated conversion of IPTV.m3u to IPTV.txt' || true  # 如果没有变化则不提交  
+        git add tv/IPTV.txt  
+        git commit -m 'Automated conversion of tv/IPTV.m3u to tv/IPTV.txt' || true  # 如果没有变化则不提交  
         git push origin HEAD
