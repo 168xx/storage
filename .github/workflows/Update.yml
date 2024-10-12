@@ -48,10 +48,23 @@ jobs:
         sed -i '1i #EXTM3U' tv/CN.m3u
         sed -i '/^\s*$/d' tv/CN.m3u
 
+        # 电影源
+        rm -f tv/DY.m3u && touch tv/DY.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O DYTV1.m3u && sed -i -n '/NewTV「IPV6」/,+1p' DYTV1.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O DYTV2.m3u && sed -i -n '/游戏「赛事」/,+1p' DYTV2.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O DYTV3.m3u && sed -i -n '/埋堆「轮播」/,+1p' DYTV3.m3u
+        cat DYTV1.m3u >> tv/DY.m3u
+        cat DYTV2.m3u >> tv/DY.m3u
+        cat DYTV3.m3u >> tv/DY.m3u
+        rm -f DYTV1.m3u DYTV2.m3u DYTV3.m3u
+        sed -i '1i #EXTM3U' tv/DY.m3u
+        sed -i '/^\s*$/d' tv/DY.m3u
+
         # 整合源
         rm -f tv/tv.m3u && touch tv/tv.m3u
         cat tv/CC.m3u >> tv/tv.m3u
         cat tv/CN.m3u >> tv/tv.m3u
+        cat tv/DY.m3u >> tv/tv.m3u
         sed -i '/#EXTM3U/d' tv/tv.m3u
         sed -i '1i #EXTM3U' tv/tv.m3u
         sed -i '/^\s*$/d' tv/tv.m3u
