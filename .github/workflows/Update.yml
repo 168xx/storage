@@ -65,6 +65,7 @@ jobs:
         cat tv/CC.m3u >> tv/tv.m3u
         cat tv/CN.m3u >> tv/tv.m3u
         cat tv/DY.m3u >> tv/tv.m3u
+        cat tv/LB.m3u >> tv/tv.m3u
         sed -i '/#EXTM3U/d' tv/tv.m3u
         sed -i '1i #EXTM3U' tv/tv.m3u
         sed -i '/^\s*$/d' tv/tv.m3u
