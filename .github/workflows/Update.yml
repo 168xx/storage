@@ -60,7 +60,7 @@ jobs:
         sed -i '1i #EXTM3U' tv/DY.m3u
         sed -i '/^\s*$/d' tv/DY.m3u
 
-        # 节目源
+        # 轮播源
         rm -f tv/LB.m3u && wget https://raw.githubusercontent.com/168xx/tools/refs/heads/main/LB.m3u -O tv/LB.m3u
 
         # 整合源
