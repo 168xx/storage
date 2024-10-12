@@ -1,4 +1,4 @@
-name: Update
+name: 更新
 
 on:
   watch:
@@ -22,7 +22,7 @@ jobs:
     - name: GetTime
       run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
 
-    - name: Update
+    - name: 更新
       run: |
         # 央视源
         rm -f tv/CC.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O tv/CC.m3u
@@ -58,7 +58,6 @@ jobs:
 
         # 节目源
         rm -f tv/EPG.xml && wget https://epg.112114.xyz/pp.xml -O tv/EPG.xml
-        echo "Auto Update in $DATE." > README.md
 
     - name: Commit 和 push changes
       run: |
