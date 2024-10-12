@@ -1,0 +1,389 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 group-title="💚更新时间10-12 11:46",仅供学习使用
+http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
+#EXTINF:-1 tvg-id="电影_贺岁" tvg-name="电影_贺岁" tvg-logo="https://live.fanmingming.com/tv/电影_贺岁.png" group-title="虎牙｜轮播",电影_贺岁
+http://cfss.cc/cdn/hy/11601971.flv
+#EXTINF:-1 tvg-id="电影_玄幻" tvg-name="电影_玄幻" tvg-logo="https://live.fanmingming.com/tv/电影_玄幻.png" group-title="虎牙｜轮播",电影_玄幻
+http://cfss.cc/cdn/hy/11342414.flv
+#EXTINF:-1 tvg-id="电影_谍战" tvg-name="电影_谍战" tvg-logo="https://live.fanmingming.com/tv/电影_谍战.png" group-title="虎牙｜轮播",电影_谍战
+http://cfss.cc/cdn/hy/21059585.flv
+#EXTINF:-1 tvg-id="电影_战争" tvg-name="电影_战争" tvg-logo="https://live.fanmingming.com/tv/电影_战争.png" group-title="虎牙｜轮播",电影_战争
+http://cfss.cc/cdn/hy/21059592.flv
+#EXTINF:-1 tvg-id="电影_喜剧" tvg-name="电影_喜剧" tvg-logo="https://live.fanmingming.com/tv/电影_喜剧.png" group-title="虎牙｜轮播",电影_喜剧
+http://cfss.cc/cdn/hy/11352877.flv
+#EXTINF:-1 tvg-id="电影_国产" tvg-name="电影_国产" tvg-logo="https://live.fanmingming.com/tv/电影_国产.png" group-title="虎牙｜轮播",电影_国产
+http://cfss.cc/cdn/hy/11352973.flv
+#EXTINF:-1 tvg-id="电影_周星星" tvg-name="电影_周星星" tvg-logo="https://live.fanmingming.com/tv/电影_周星星.png" group-title="虎牙｜轮播",电影_周星星
+http://cfss.cc/cdn/hy/11336587.flv
+#EXTINF:-1 tvg-id="电影_梁家辉" tvg-name="电影_梁家辉" tvg-logo="https://live.fanmingming.com/tv/电影_梁家辉.png" group-title="虎牙｜轮播",电影_梁家辉
+http://cfss.cc/cdn/hy/11342429.flv
+#EXTINF:-1 tvg-id="电影_斯坦森" tvg-name="电影_斯坦森" tvg-logo="https://live.fanmingming.com/tv/电影_斯坦森.png" group-title="虎牙｜轮播",电影_斯坦森
+http://cfss.cc/cdn/hy/21059588.flv
+#EXTINF:-1 tvg-id="电影_八点档" tvg-name="电影_八点档" tvg-logo="https://live.fanmingming.com/tv/电影_八点档.png" group-title="虎牙｜轮播",电影_八点档
+http://cfss.cc/cdn/hy/880261.flv
+#EXTINF:-1 tvg-id="电影_蜘蛛侠" tvg-name="电影_蜘蛛侠" tvg-logo="https://live.fanmingming.com/tv/电影_蜘蛛侠.png" group-title="虎牙｜轮播",电影_蜘蛛侠
+http://cfss.cc/cdn/hy/21059599.flv
+#EXTINF:-1 tvg-id="电影_贺岁片" tvg-name="电影_贺岁片" tvg-logo="https://live.fanmingming.com/tv/电影_贺岁片.png" group-title="虎牙｜轮播",电影_贺岁片
+http://cfss.cc/cdn/hy/11601986.flv
+#EXTINF:-1 tvg-id="电影_功夫片" tvg-name="电影_功夫片" tvg-logo="https://live.fanmingming.com/tv/电影_功夫片.png" group-title="虎牙｜轮播",电影_功夫片
+http://cfss.cc/cdn/hy/11352941.flv
+#EXTINF:-1 tvg-id="电影_黑帮片" tvg-name="电影_黑帮片" tvg-logo="https://live.fanmingming.com/tv/电影_黑帮片.png" group-title="虎牙｜轮播",电影_黑帮片
+http://cfss.cc/cdn/hy/11336719.flv
+#EXTINF:-1 tvg-id="电影_丧尸片" tvg-name="电影_丧尸片" tvg-logo="https://live.fanmingming.com/tv/电影_丧尸片.png" group-title="虎牙｜轮播",电影_丧尸片
+http://cfss.cc/cdn/hy//21059578.flv
+#EXTINF:-1 tvg-id="电影_灾难片" tvg-name="电影_灾难片" tvg-logo="https://live.fanmingming.com/tv/电影_灾难片.png" group-title="虎牙｜轮播",电影_灾难片
+http://cfss.cc/cdn/hy/11602075.flv
+#EXTINF:-1 tvg-id="电影_谍战片" tvg-name="电影_谍战片" tvg-logo="https://live.fanmingming.com/tv/电影_谍战片.png" group-title="虎牙｜轮播",电影_谍战片
+http://cfss.cc/cdn/hy/21059587.flv
+#EXTINF:-1 tvg-id="电影_战争片" tvg-name="电影_战争片" tvg-logo="https://live.fanmingming.com/tv/电影_战争片.png" group-title="虎牙｜轮播",电影_战争片
+http://cfss.cc/cdn/hy/21059574.flv
+#EXTINF:-1 tvg-id="电影_犯罪片" tvg-name="电影_犯罪片" tvg-logo="https://live.fanmingming.com/tv/电影_犯罪片.png" group-title="虎牙｜轮播",电影_犯罪片
+http://cfss.cc/cdn/hy/11352974.flv
+#EXTINF:-1 tvg-id="电影_古装片" tvg-name="电影_古装片" tvg-logo="https://live.fanmingming.com/tv/电影_古装片.png" group-title="虎牙｜轮播",电影_古装片
+http://cfss.cc/cdn/hy/11336590.flv
+#EXTINF:-1 tvg-id="电影_高分动作" tvg-name="电影_高分动作" tvg-logo="https://live.fanmingming.com/tv/电影_高分动作.png" group-title="虎牙｜轮播",电影_高分动作
+http://cfss.cc/cdn/hy/11352884.flv
+#EXTINF:-1 tvg-id="电影_动作电影" tvg-name="电影_动作电影" tvg-logo="https://live.fanmingming.com/tv/电影_动作电影.png" group-title="虎牙｜轮播",电影_动作电影
+http://cfss.cc/cdn/hy/11602077.flv
+#EXTINF:-1 tvg-id="电影_搞笑喜剧" tvg-name="电影_搞笑喜剧" tvg-logo="https://live.fanmingming.com/tv/电影_搞笑喜剧.png" group-title="虎牙｜轮播",电影_搞笑喜剧
+http://cfss.cc/cdn/hy/11342423.flv
+#EXTINF:-1 tvg-id="电影_喜剧专场" tvg-name="电影_喜剧专场" tvg-logo="https://live.fanmingming.com/tv/电影_喜剧专场.png" group-title="虎牙｜轮播",电影_喜剧专场
+http://cfss.cc/cdn/hy/11602044.flv
+#EXTINF:-1 tvg-id="电影_欢笑影院" tvg-name="电影_欢笑影院" tvg-logo="https://live.fanmingming.com/tv/电影_欢笑影院.png" group-title="虎牙｜轮播",电影_欢笑影院
+http://cfss.cc/cdn/hy/11352894.flv
+#EXTINF:-1 tvg-id="电影_不挤影院" tvg-name="电影_不挤影院" tvg-logo="https://live.fanmingming.com/tv/电影_不挤影院.png" group-title="虎牙｜轮播",电影_不挤影院
+http://cfss.cc/cdn/hy/11352897.flv
+#EXTINF:-1 tvg-id="电影_国产悬疑" tvg-name="电影_国产悬疑" tvg-logo="https://live.fanmingming.com/tv/电影_国产悬疑.png" group-title="虎牙｜轮播",电影_国产悬疑
+http://cfss.cc/cdn/hy/11342395.flv
+#EXTINF:-1 tvg-id="电影_快意江湖" tvg-name="电影_快意江湖" tvg-logo="https://live.fanmingming.com/tv/电影_快意江湖.png" group-title="虎牙｜轮播",电影_快意江湖
+http://cfss.cc/cdn/hy/11342435.flv
+#EXTINF:-1 tvg-id="电影_黑帮斗争" tvg-name="电影_黑帮斗争" tvg-logo="https://live.fanmingming.com/tv/电影_黑帮斗争.png" group-title="虎牙｜轮播",电影_黑帮斗争
+http://cfss.cc/cdn/hy/11342419.flv
+#EXTINF:-1 tvg-id="电影_嫣然影厅" tvg-name="电影_嫣然影厅" tvg-logo="https://live.fanmingming.com/tv/电影_嫣然影厅.png" group-title="虎牙｜轮播",电影_嫣然影厅
+http://cfss.cc/cdn/hy/11601977.flv
+#EXTINF:-1 tvg-id="电影_经典港片" tvg-name="电影_经典港片" tvg-logo="https://live.fanmingming.com/tv/电影_经典港片.png" group-title="虎牙｜轮播",电影_经典港片
+http://cfss.cc/cdn/hy/11352965.flv
+#EXTINF:-1 tvg-id="电影_镖行天下" tvg-name="电影_镖行天下" tvg-logo="https://live.fanmingming.com/tv/电影_镖行天下.png" group-title="虎牙｜轮播",电影_镖行天下
+http://cfss.cc/cdn/hy/11352969.flv
+#EXTINF:-1 tvg-id="电影_高能反转" tvg-name="电影_高能反转" tvg-logo="https://live.fanmingming.com/tv/电影_高能反转.png" group-title="虎牙｜轮播",电影_高能反转
+http://cfss.cc/cdn/hy/11352887.flv
+#EXTINF:-1 tvg-id="电影_喜乐影院" tvg-name="电影_喜乐影院" tvg-logo="https://live.fanmingming.com/tv/电影_喜乐影院.png" group-title="虎牙｜轮播",电影_喜乐影院
+http://cfss.cc/cdn/hy/21059580.flv
+#EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://live.fanmingming.com/tv/电影_英叔.png" group-title="虎牙｜轮播",电影_英叔
+https://live.metshop.top/huya/11342421
+#EXTINF:-1 tvg-id="电影_发哥" tvg-name="电影_发哥" tvg-logo="https://live.fanmingming.com/tv/电影_发哥.png" group-title="虎牙｜轮播",电影_发哥
+https://live.metshop.top/huya/11342387
+#EXTINF:-1 tvg-id="电影_成龙" tvg-name="电影_成龙" tvg-logo="https://live.fanmingming.com/tv/电影_成龙.png" group-title="虎牙｜轮播",电影_成龙
+https://live.metshop.top/huya/11342386
+#EXTINF:-1 tvg-id="电影_王晶" tvg-name="电影_王晶" tvg-logo="https://live.fanmingming.com/tv/电影_王晶.png" group-title="虎牙｜轮播",电影_王晶
+https://live.metshop.top/huya/11602058
+#EXTINF:-1 tvg-id="电影_沈腾" tvg-name="电影_沈腾" tvg-logo="https://live.fanmingming.com/tv/电影_沈腾.png" group-title="虎牙｜轮播",电影_沈腾
+https://live.metshop.top/huya/11601968
+#EXTINF:-1 tvg-id="电影_黄渤" tvg-name="电影_黄渤" tvg-logo="https://live.fanmingming.com/tv/电影_黄渤.png" group-title="虎牙｜轮播",电影_黄渤
+https://live.metshop.top/huya/11352876
+#EXTINF:-1 tvg-id="电影_强森" tvg-name="电影_强森" tvg-logo="https://live.fanmingming.com/tv/电影_强森.png" group-title="虎牙｜轮播",电影_强森
+https://live.metshop.top/huya/21059581
+#EXTINF:-1 tvg-id="电影_漫威" tvg-name="电影_漫威" tvg-logo="https://live.fanmingming.com/tv/电影_漫威.png" group-title="虎牙｜轮播",电影_漫威
+https://live.metshop.top/huya/11602034
+#EXTINF:-1 tvg-id="电影_宇宙" tvg-name="电影_宇宙" tvg-logo="https://live.fanmingming.com/tv/电影_宇宙.png" group-title="虎牙｜轮播",电影_宇宙
+https://live.metshop.top/huya/11342428
+#EXTINF:-1 tvg-id="电影_怪兽" tvg-name="电影_怪兽" tvg-logo="https://live.fanmingming.com/tv/电影_怪兽.png" group-title="虎牙｜轮播",电影_怪兽
+https://live.metshop.top/huya/21059577
+#EXTINF:-1 tvg-id="电影_武侠" tvg-name="电影_武侠" tvg-logo="https://live.fanmingming.com/tv/电影_武侠.png" group-title="虎牙｜轮播",电影_武侠
+https://live.metshop.top/huya/11342427
+#EXTINF:-1 tvg-id="电影_警匪" tvg-name="电影_警匪" tvg-logo="https://live.fanmingming.com/tv/电影_警匪.png" group-title="虎牙｜轮播",电影_警匪
+https://live.metshop.top/huya/11352886
+#EXTINF:-1 tvg-id="电影_罪犯" tvg-name="电影_罪犯" tvg-logo="https://live.fanmingming.com/tv/电影_罪犯.png" group-title="虎牙｜轮播",电影_罪犯
+https://live.metshop.top/huya/11352962
+#EXTINF:-1 tvg-id="电影_枪战" tvg-name="电影_枪战" tvg-logo="https://live.fanmingming.com/tv/电影_枪战.png" group-title="虎牙｜轮播",电影_枪战
+https://live.metshop.top/huya/21059579
+#EXTINF:-1 tvg-id="电影_海盗" tvg-name="电影_海盗" tvg-logo="https://live.fanmingming.com/tv/电影_海盗.png" group-title="虎牙｜轮播",电影_海盗
+https://live.metshop.top/huya/21059595
+#EXTINF:-1 tvg-id="电影_赛车" tvg-name="电影_赛车" tvg-logo="https://live.fanmingming.com/tv/电影_赛车.png" group-title="虎牙｜轮播",电影_赛车
+https://live.metshop.top/huya/11279247
+#EXTINF:-1 tvg-id="电影_推荐" tvg-name="电影_推荐" tvg-logo="https://live.fanmingming.com/tv/电影_推荐.png" group-title="虎牙｜轮播",电影_推荐
+https://live.metshop.top/huya/11602041
+#EXTINF:-1 tvg-id="电影_救援" tvg-name="电影_救援" tvg-logo="https://live.fanmingming.com/tv/电影_救援.png" group-title="虎牙｜轮播",电影_救援
+https://live.metshop.top/huya/21059594
+#EXTINF:-1 tvg-id="电影_热血" tvg-name="电影_热血" tvg-logo="https://live.fanmingming.com/tv/电影_热血.png" group-title="虎牙｜轮播",电影_热血
+https://live.metshop.top/huya/11352934
+#EXTINF:-1 tvg-id="电影_盗墓" tvg-name="电影_盗墓" tvg-logo="https://live.fanmingming.com/tv/电影_盗墓.png" group-title="虎牙｜轮播",电影_盗墓
+https://live.metshop.top/huya/21059552
+#EXTINF:-1 tvg-id="电影_贺岁" tvg-name="电影_贺岁" tvg-logo="https://live.fanmingming.com/tv/电影_贺岁.png" group-title="虎牙｜轮播",电影_贺岁
+https://live.metshop.top/huya/11601971
+#EXTINF:-1 tvg-id="电影_玄幻" tvg-name="电影_玄幻" tvg-logo="https://live.fanmingming.com/tv/电影_玄幻.png" group-title="虎牙｜轮播",电影_玄幻
+https://live.metshop.top/huya/11342414
+#EXTINF:-1 tvg-id="电影_谍战" tvg-name="电影_谍战" tvg-logo="https://live.fanmingming.com/tv/电影_谍战.png" group-title="虎牙｜轮播",电影_谍战
+https://live.metshop.top/huya/21059585
+#EXTINF:-1 tvg-id="电影_战争" tvg-name="电影_战争" tvg-logo="https://live.fanmingming.com/tv/电影_战争.png" group-title="虎牙｜轮播",电影_战争
+https://live.metshop.top/huya/21059592
+#EXTINF:-1 tvg-id="电影_喜剧" tvg-name="电影_喜剧" tvg-logo="https://live.fanmingming.com/tv/电影_喜剧.png" group-title="虎牙｜轮播",电影_喜剧
+https://live.metshop.top/huya/11352877
+#EXTINF:-1 tvg-id="电影_港片" tvg-name="电影_港片" tvg-logo="https://live.fanmingming.com/tv/电影_港片.png" group-title="虎牙｜轮播",电影_港片
+https://live.metshop.top/huya/11602043
+#EXTINF:-1 tvg-id="电影_国产" tvg-name="电影_国产" tvg-logo="https://live.fanmingming.com/tv/电影_国产.png" group-title="虎牙｜轮播",电影_国产
+https://live.metshop.top/huya/11352973
+#EXTINF:-1 tvg-id="电影_周星星" tvg-name="电影_周星星" tvg-logo="https://live.fanmingming.com/tv/电影_周星星.png" group-title="虎牙｜轮播",电影_周星星
+https://live.metshop.top/huya/11336587
+#EXTINF:-1 tvg-id="电影_李连杰" tvg-name="电影_李连杰" tvg-logo="https://live.fanmingming.com/tv/电影_李连杰.png" group-title="虎牙｜轮播",电影_李连杰
+https://live.metshop.top/huya/11342390
+#EXTINF:-1 tvg-id="电影_洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://live.fanmingming.com/tv/电影_洪金宝.png" group-title="虎牙｜轮播",电影_洪金宝
+https://live.metshop.top/huya/11279251
+#EXTINF:-1 tvg-id="电影_梁家辉" tvg-name="电影_梁家辉" tvg-logo="https://live.fanmingming.com/tv/电影_梁家辉.png" group-title="虎牙｜轮播",电影_梁家辉
+https://live.metshop.top/huya/11342429
+#EXTINF:-1 tvg-id="电影_刘德华" tvg-name="电影_刘德华" tvg-logo="https://live.fanmingming.com/tv/电影_刘德华.png" group-title="虎牙｜轮播",电影_刘德华
+https://live.metshop.top/huya/11342424
+#EXTINF:-1 tvg-id="新三国" tvg-name="新三国" tvg-logo="https://live.fanmingming.com/tv/新三国.png" group-title="虎牙｜轮播",新三国
+http://cfss.cc/cdn/hy/11352944.flv
+#EXTINF:-1 tvg-id="陈翔六点半" tvg-name="陈翔六点半" tvg-logo="https://live.fanmingming.com/tv/陈翔六点半.png" group-title="虎牙｜轮播",陈翔六点半
+http://cfss.cc/cdn/hy/11274154.flv
+#EXTINF:-1 tvg-id="报告老板" tvg-name="报告老板" tvg-logo="https://live.fanmingming.com/tv/报告老板.png" group-title="虎牙｜轮播",报告老板
+http://cfss.cc/cdn/hy/26355835.flv
+#EXTINF:-1 tvg-id="老三国" tvg-name="老三国" tvg-logo="https://live.fanmingming.com/tv/老三国.png" group-title="虎牙｜轮播",老三国
+http://cfss.cc/cdn/hy/11602081.flv
+#EXTINF:-1 tvg-id="纪晓岚" tvg-name="纪晓岚" tvg-logo="https://live.fanmingming.com/tv/纪晓岚.png" group-title="虎牙｜轮播",纪晓岚
+http://cfss.cc/cdn/hy/11342396.flv
+#EXTINF:-1 tvg-id="新水浒" tvg-name="新水浒" tvg-logo="https://live.fanmingming.com/tv/新水浒.png" group-title="虎牙｜轮播",新水浒
+http://cfss.cc/cdn/hy/11342384.flv
+#EXTINF:-1 tvg-id="庆余年" tvg-name="庆余年" tvg-logo="https://live.fanmingming.com/tv/庆余年.png" group-title="虎牙｜轮播",庆余年
+http://cfss.cc/cdn/hy/11352960.flv
+#EXTINF:-1 tvg-id="雍正王朝" tvg-name="雍正王朝" tvg-logo="https://live.fanmingming.com/tv/雍正王朝.png" group-title="虎牙｜轮播",雍正王朝
+http://cfss.cc/cdn/hy/11342439.flv
+#EXTINF:-1 tvg-id="士兵突击" tvg-name="士兵突击" tvg-logo="https://live.fanmingming.com/tv/士兵突击.png" group-title="虎牙｜轮播",士兵突击
+http://cfss.cc/cdn/hy/11342430.flv
+#EXTINF:-1 tvg-id="爱情公寓" tvg-name="爱情公寓" tvg-logo="https://live.fanmingming.com/tv/爱情公寓.png" group-title="虎牙｜轮播",爱情公寓
+http://cfss.cc/cdn/hy/11336726.flv
+#EXTINF:-1 tvg-id="家有儿女" tvg-name="家有儿女" tvg-logo="https://live.fanmingming.com/tv/家有儿女.png" group-title="虎牙｜轮播",家有儿女
+http://cfss.cc/cdn/hy/11352872.flv
+#EXTINF:-1 tvg-id="勇敢的心" tvg-name="勇敢的心" tvg-logo="https://live.fanmingming.com/tv/勇敢的心.png" group-title="虎牙｜轮播",勇敢的心
+http://cfss.cc/cdn/hy/11602037.flv
+#EXTINF:-1 tvg-id="地下交通站" tvg-name="地下交通站" tvg-logo="https://live.fanmingming.com/tv/地下交通站.png" group-title="虎牙｜轮播",地下交通站
+http://cfss.cc/cdn/hy/11342433.flv
+#EXTINF:-1 tvg-id="杨紫" tvg-name="杨紫" tvg-logo="https://live.fanmingming.com/tv/杨紫.png" group-title="虎牙｜轮播",杨紫
+http://cfss.cc/cdn/hy/11336593.flv
+#EXTINF:-1 tvg-id="邻里一家亲" tvg-name="邻里一家亲" tvg-logo="https://live.fanmingming.com/tv/邻里一家亲.png" group-title="虎牙｜轮播",邻里一家亲
+http://cfss.cc/cdn/hy/11342426.flv
+#EXTINF:-1 tvg-id="死神来了" tvg-name="死神来了" tvg-logo="https://live.fanmingming.com/tv/死神来了.png" group-title="虎牙｜轮播",死神来了
+http://cfss.cc/cdn/hy/11352903.flv
+#EXTINF:-1 tvg-id="斗罗大陆" tvg-name="斗罗大陆" tvg-logo="https://live.fanmingming.com/tv/斗罗大陆.png" group-title="虎牙｜轮播",斗罗大陆
+http://cfss.cc/cdn/hy/11352906.flv
+#EXTINF:-1 tvg-id="小马的直播间" tvg-name="小马的直播间" tvg-logo="https://live.fanmingming.com/tv/小马的直播间.png" group-title="虎牙｜轮播",小马的直播间
+http://cfss.cc/cdn/hy/23749096.flv
+#EXTINF:-1 tvg-id="孙悟空" tvg-name="孙悟空" tvg-logo="https://live.fanmingming.com/tv/孙悟空.png" group-title="虎牙｜轮播",孙悟空
+http://cfss.cc/cdn/hy/23735126.flv
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://live.fanmingming.com/tv/中国功夫.png" group-title="虎牙｜轮播",中国功夫
+http://cfss.cc/cdn/hy/11352941.flv
+#EXTINF:-1 tvg-id="花千骨" tvg-name="花千骨" tvg-logo="https://live.fanmingming.com/tv/花千骨.png" group-title="虎牙｜轮播",花千骨
+http://cfss.cc/cdn/hy/26355839.flv
+#EXTINF:-1 tvg-id="龙门镖局" tvg-name="龙门镖局" tvg-logo="https://live.fanmingming.com/tv/龙门镖局.png" group-title="虎牙｜轮播",龙门镖局
+http://cfss.cc/cdn/hy/11352874.flv
+#EXTINF:-1 tvg-id="父母爱情" tvg-name="父母爱情" tvg-logo="https://live.fanmingming.com/tv/父母爱情.png" group-title="虎牙｜轮播",父母爱情
+http://cfss.cc/cdn/hy/11602071.flv
+#EXTINF:-1 tvg-id="医馆笑传" tvg-name="医馆笑传" tvg-logo="https://live.fanmingming.com/tv/医馆笑传.png" group-title="虎牙｜轮播",医馆笑传
+http://cfss.cc/cdn/hy/11352891.flv
+#EXTINF:-1 tvg-id="康熙大帝" tvg-name="康熙大帝" tvg-logo="https://live.fanmingming.com/tv/康熙大帝.png" group-title="虎牙｜轮播",康熙大帝
+http://cfss.cc/cdn/hy/11352940.flv
+#EXTINF:-1 tvg-id="新雪豹" tvg-name="新雪豹" tvg-logo="https://live.fanmingming.com/tv/新雪豹.png" group-title="虎牙｜轮播",新雪豹
+http://cfss.cc/cdn/hy/29580970.flv
+#EXTINF:-1 tvg-id="朱元璋" tvg-name="朱元璋" tvg-logo="https://live.fanmingming.com/tv/朱元璋.png" group-title="虎牙｜轮播",朱元璋
+http://cfss.cc/cdn/hy/29910845.flv
+#EXTINF:-1 tvg-id="张卫健版西游记" tvg-name="张卫健版西游记" tvg-logo="https://live.fanmingming.com/tv/张卫健版西游记.png" group-title="虎牙｜轮播",张卫健版西游记
+http://cfss.cc/cdn/hy/23728660.flv
+#EXTINF:-1 tvg-id="楚汉骄雄" tvg-name="楚汉骄雄" tvg-logo="https://live.fanmingming.com/tv/楚汉骄雄.png" group-title="虎牙｜轮播",楚汉骄雄
+http://cfss.cc/cdn/hy/23740156.flv
+#EXTINF:-1 tvg-id="鹿鼎记小春版" tvg-name="鹿鼎记小春版" tvg-logo="https://live.fanmingming.com/tv/鹿鼎记小春版.png" group-title="虎牙｜轮播",鹿鼎记小春版
+http://cfss.cc/cdn/hy/23865080.flv
+#EXTINF:-1 tvg-id="天龙八部97版" tvg-name="天龙八部97版" tvg-logo="https://live.fanmingming.com/tv/天龙八部97版.png" group-title="虎牙｜轮播",天龙八部97版
+http://cfss.cc/cdn/hy/23903123.flv
+#EXTINF:-1 tvg-id="刑事侦缉档案" tvg-name="刑事侦缉档案" tvg-logo="https://live.fanmingming.com/tv/刑事侦缉档案.png" group-title="虎牙｜轮播",刑事侦缉档案
+http://cfss.cc/cdn/hy/23734169.flv
+#EXTINF:-1 tvg-id="寻秦记" tvg-name="寻秦记" tvg-logo="https://live.fanmingming.com/tv/寻秦记.png" group-title="虎牙｜轮播",寻秦记
+http://cfss.cc/cdn/hy/23864973.flv
+#EXTINF:-1 tvg-id="法证先锋" tvg-name="法证先锋" tvg-logo="https://live.fanmingming.com/tv/法证先锋.png" group-title="虎牙｜轮播",法证先锋
+http://cfss.cc/cdn/hy/23863804.flv
+#EXTINF:-1 tvg-id="陀枪师姐" tvg-name="陀枪师姐" tvg-logo="https://live.fanmingming.com/tv/陀枪师姐.png" group-title="虎牙｜轮播",陀枪师姐
+http://cfss.cc/cdn/hy/23860039.flv
+#EXTINF:-1 tvg-id="笑傲江湖" tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="虎牙｜轮播",笑傲江湖
+http://cfss.cc/cdn/hy/23865142.flv
+#EXTINF:-1 tvg-id="洗冤录" tvg-name="洗冤录" tvg-logo="https://live.fanmingming.com/tv/洗冤录.png" group-title="虎牙｜轮播",洗冤录
+http://cfss.cc/cdn/hy/23903130.flv
+#EXTINF:-1 tvg-id="倚天屠龙记" tvg-name="倚天屠龙记" tvg-logo="https://live.fanmingming.com/tv/倚天屠龙记.png" group-title="虎牙｜轮播",倚天屠龙记
+http://cfss.cc/cdn/hy/23734246.flv
+#EXTINF:-1 tvg-id="神雕侠侣" tvg-name="神雕侠侣" tvg-logo="https://live.fanmingming.com/tv/神雕侠侣.png" group-title="虎牙｜轮播",神雕侠侣
+http://cfss.cc/cdn/hy/23865171.flv
+#EXTINF:-1 tvg-id="鉴证实录" tvg-name="鉴证实录" tvg-logo="https://live.fanmingming.com/tv/鉴证实录.png" group-title="虎牙｜轮播",鉴证实录
+http://cfss.cc/cdn/hy/23903183.flv
+#EXTINF:-1 tvg-id="创世纪" tvg-name="创世纪" tvg-logo="https://live.fanmingming.com/tv/创世纪.png" group-title="虎牙｜轮播",创世纪
+http://cfss.cc/cdn/hy/23749083.flv
+#EXTINF:-1 tvg-id="孙红雷" tvg-name="孙红雷" tvg-logo="https://live.fanmingming.com/tv/孙红雷.png" group-title="虎牙｜轮播",孙红雷
+http://cfss.cc/cdn/hy/11601970.flv
+#EXTINF:-1 tvg-id="使徒行者" tvg-name="使徒行者" tvg-logo="https://live.fanmingming.com/tv/使徒行者.png" group-title="虎牙｜轮播",使徒行者
+http://cfss.cc/cdn/hy/23734256.flv
+#EXTINF:-1 tvg-id="金枝欲孽" tvg-name="金枝欲孽" tvg-logo="https://live.fanmingming.com/tv/金枝欲孽.png" group-title="虎牙｜轮播",金枝欲孽
+http://cfss.cc/cdn/hy/23865036.flv
+#EXTINF:-1 tvg-id="大唐双龙传" tvg-name="大唐双龙传" tvg-logo="https://live.fanmingming.com/tv/大唐双龙传.png" group-title="虎牙｜轮播",大唐双龙传
+http://cfss.cc/cdn/hy/23728674.flv
+#EXTINF:-1 tvg-id="妙手仁心" tvg-name="妙手仁心" tvg-logo="https://live.fanmingming.com/tv/妙手仁心.png" group-title="虎牙｜轮播",妙手仁心
+http://cfss.cc/cdn/hy/23829543.flv
+#EXTINF:-1 tvg-id="扫黄先锋" tvg-name="扫黄先锋" tvg-logo="https://live.fanmingming.com/tv/扫黄先锋.png" group-title="虎牙｜轮播",扫黄先锋
+http://cfss.cc/cdn/hy/23903196.flv
+#EXTINF:-1 tvg-id="笑看风云" tvg-name="笑看风云" tvg-logo="https://live.fanmingming.com/tv/笑看风云.png" group-title="虎牙｜轮播",笑看风云
+http://cfss.cc/cdn/hy/23865058.flv
+#EXTINF:-1 tvg-id="秦始皇" tvg-name="秦始皇" tvg-logo="https://live.fanmingming.com/tv/秦始皇.png" group-title="虎牙｜轮播",秦始皇
+http://cfss.cc/cdn/hy/21059634.flv
+#EXTINF:-1 tvg-id="大时代" tvg-name="大时代" tvg-logo="https://live.fanmingming.com/tv/大时代.png" group-title="虎牙｜轮播",大时代
+http://cfss.cc/cdn/hy/23865161.flv
+#EXTINF:-1 tvg-id="外科医生" tvg-name="外科医生" tvg-logo="https://live.fanmingming.com/tv/外科医生.png" group-title="虎牙｜轮播",外科医生
+http://cfss.cc/cdn/hy/29982672.flv
+#EXTINF:-1 tvg-id="梁朝伟版鹿鼎记" tvg-name="梁朝伟版鹿鼎记" tvg-logo="https://live.fanmingming.com/tv/梁朝伟版鹿鼎记.png" group-title="虎牙｜轮播",梁朝伟版鹿鼎记
+http://cfss.cc/cdn/hy/23734183.flv
+#EXTINF:-1 tvg-id="雀刀门传奇" tvg-name="雀刀门传奇" tvg-logo="https://live.fanmingming.com/tv/雀刀门传奇.png" group-title="虎牙｜轮播",雀刀门传奇
+http://cfss.cc/cdn/hy/11352963.flv
+#EXTINF:-1 tvg-id="经典港剧" tvg-name="经典港剧" tvg-logo="https://live.fanmingming.com/tv/经典港剧.png" group-title="虎牙｜轮播",经典港剧
+http://cfss.cc/cdn/hy/11352965.flv
+#EXTINF:-1 tvg-id="鬼吹灯" tvg-name="鬼吹灯" tvg-logo="https://live.fanmingming.com/tv/鬼吹灯.png" group-title="虎牙｜轮播",鬼吹灯
+http://cfss.cc/cdn/hy/11352883.flv
+#EXTINF:-1 tvg-id="魏璎珞" tvg-name="魏璎珞" tvg-logo="https://live.fanmingming.com/tv/魏璎珞.png" group-title="虎牙｜轮播",魏璎珞
+http://cfss.cc/cdn/hy/26355864.flv
+#EXTINF:-1 tvg-id="龙岭迷窟" tvg-name="龙岭迷窟" tvg-logo="https://live.fanmingming.com/tv/龙岭迷窟.png" group-title="虎牙｜轮播",龙岭迷窟
+http://cfss.cc/cdn/hy/29465863.flv
+#EXTINF:-1 tvg-id="毛骗" tvg-name="毛骗" tvg-logo="https://live.fanmingming.com/tv/毛骗.png" group-title="虎牙｜轮播",毛骗
+http://cfss.cc/cdn/hy/26355791.flv
+#EXTINF:-1 tvg-id="鬼吹灯全集" tvg-name="鬼吹灯全集" tvg-logo="https://live.fanmingming.com/tv/鬼吹灯全集.png" group-title="虎牙｜轮播",鬼吹灯全集
+http://cfss.cc/cdn/hy/29768105.flv
+#EXTINF:-1 tvg-id="云南虫谷" tvg-name="云南虫谷" tvg-logo="https://live.fanmingming.com/tv/云南虫谷.png" group-title="虎牙｜轮播",云南虫谷
+http://cfss.cc/cdn/hy/11352898.flv
+#EXTINF:-1 tvg-id="贺岁喜剧" tvg-name="贺岁喜剧" tvg-logo="https://live.fanmingming.com/tv/贺岁喜剧.png" group-title="虎牙｜轮播",贺岁喜剧
+http://cfss.cc/cdn/hy/11601986.flv
+#EXTINF:-1 tvg-id="新白娘子传奇" tvg-name="新白娘子传奇" tvg-logo="https://live.fanmingming.com/tv/新白娘子传奇.png" group-title="虎牙｜轮播",新白娘子传奇
+http://cfss.cc/cdn/hy/26355768.flv
+#EXTINF:-1 tvg-id="张卫健版鹿鼎记" tvg-name="张卫健版鹿鼎记" tvg-logo="https://live.fanmingming.com/tv/张卫健版鹿鼎记.png" group-title="虎牙｜轮播",张卫健版鹿鼎记
+http://cfss.cc/cdn/hy/26355806.flv
+#EXTINF:-1 tvg-id="86版西游记" tvg-name="86版西游记" tvg-logo="https://live.fanmingming.com/tv/86版西游记.png" group-title="虎牙｜轮播",86版西游记
+http://cfss.cc/cdn/hy/26355861.flv
+#EXTINF:-1 tvg-id="经典宫斗剧" tvg-name="经典宫斗剧" tvg-logo="https://live.fanmingming.com/tv/经典宫斗剧.png" group-title="虎牙｜轮播",经典宫斗剧
+http://cfss.cc/cdn/hy/26355845.flv
+#EXTINF:-1 tvg-id="宫斗剧" tvg-name="宫斗剧" tvg-logo="https://live.fanmingming.com/tv/宫斗剧.png" group-title="虎牙｜轮播",宫斗剧
+http://cfss.cc/cdn/hy/29465868.flv
+#EXTINF:-1 tvg-id="宝莲灯前传" tvg-name="宝莲灯前传" tvg-logo="https://live.fanmingming.com/tv/宝莲灯前传.png" group-title="虎牙｜轮播",宝莲灯前传
+http://cfss.cc/cdn/hy/21059557.flv
+#EXTINF:-1 tvg-id="万万没想到" tvg-name="万万没想到" tvg-logo="https://live.fanmingming.com/tv/万万没想到.png" group-title="虎牙｜轮播",万万没想到
+http://cfss.cc/cdn/hy/26355850.flv
+#EXTINF:-1 tvg-id="盛世大唐" tvg-name="盛世大唐" tvg-logo="https://live.fanmingming.com/tv/盛世大唐.png" group-title="虎牙｜轮播",盛世大唐
+http://cfss.cc/cdn/hy/26355763.flv
+#EXTINF:-1 tvg-id="陆小凤" tvg-name="陆小凤" tvg-logo="https://live.fanmingming.com/tv/陆小凤.png" group-title="虎牙｜轮播",陆小凤
+http://cfss.cc/cdn/hy/29808803.flv
+#EXTINF:-1 tvg-id="王子变青蛙" tvg-name="王子变青蛙" tvg-logo="https://live.fanmingming.com/tv/王子变青蛙.png" group-title="虎牙｜轮播",王子变青蛙
+http://cfss.cc/cdn/hy/11601964.flv
+#EXTINF:-1 tvg-id="绝代双骄" tvg-name="绝代双骄" tvg-logo="https://live.fanmingming.com/tv/绝代双骄.png" group-title="虎牙｜轮播",绝代双骄
+http://cfss.cc/cdn/hy/29465867.flv
+#EXTINF:-1 tvg-id="橘生淮南，暗恋成诗" tvg-name="橘生淮南，暗恋成诗" tvg-logo="https://live.fanmingming.com/tv/橘生淮南，暗恋成诗.png" group-title="虎牙｜轮播",橘生淮南，暗恋成诗
+http://cfss.cc/cdn/hy/29982670.flv
+#EXTINF:-1 tvg-id="十大奇冤" tvg-name="十大奇冤" tvg-logo="https://live.fanmingming.com/tv/十大奇冤.png" group-title="虎牙｜轮播",十大奇冤
+http://cfss.cc/cdn/hy/11352899.flv
+#EXTINF:-1 tvg-id="古装剧集" tvg-name="古装剧集" tvg-logo="https://live.fanmingming.com/tv/古装剧集.png" group-title="虎牙｜轮播",古装剧集
+http://cfss.cc/cdn/hy/11601979.flv
+#EXTINF:-1 tvg-id="新雪豹" tvg-name="新雪豹" tvg-logo="https://live.fanmingming.com/tv/新雪豹.png" group-title="虎牙｜轮播",新雪豹
+http://cfss.cc/cdn/hy/29580970.flv
+#EXTINF:-1 tvg-id="芈月传" tvg-name="芈月传" tvg-logo="https://live.fanmingming.com/tv/芈月传.png" group-title="虎牙｜轮播",芈月传
+http://cfss.cc/cdn/hy/11352975.flv
+#EXTINF:-1 tvg-id="有翡(试播)" tvg-name="有翡(试播)" tvg-logo="https://live.fanmingming.com/tv/有翡(试播).png" group-title="虎牙｜轮播",有翡(试播)
+http://cfss.cc/cdn/hy/29580970.flv
+#EXTINF:-1 tvg-id="胡斐(试播)" tvg-name="胡斐(试播)" tvg-logo="https://live.fanmingming.com/tv/胡斐(试播).png" group-title="虎牙｜轮播",胡斐(试播)
+http://cfss.cc/cdn/hy/26355765.flv
+#EXTINF:-1 tvg-id="国产科幻(试播)" tvg-name="国产科幻(试播)" tvg-logo="https://live.fanmingming.com/tv/国产科幻(试播).png" group-title="虎牙｜轮播",国产科幻(试播)
+http://cfss.cc/cdn/hy/11602077.flv
+#EXTINF:-1 tvg-id="林正英 1" tvg-name="林正英 1" tvg-logo="https://live.fanmingming.com/tv/林正英 1.png" group-title="斗鱼｜轮播",林正英 1
+http://zzy789.xyz/douyu1.php?id=7356023
+#EXTINF:-1 tvg-id="林正英 2" tvg-name="林正英 2" tvg-logo="https://live.fanmingming.com/tv/林正英 2.png" group-title="斗鱼｜轮播",林正英 2
+https://live.metshop.top/douyu/218859
+#EXTINF:-1 tvg-id="斗鱼频道" tvg-name="斗鱼频道" tvg-logo="https://live.fanmingming.com/tv/斗鱼频道.png" group-title="斗鱼｜轮播",斗鱼频道
+http://zzy789.xyz/douyu1.php?id=8770422
+#EXTINF:-1 tvg-id="斗鱼频道" tvg-name="斗鱼频道" tvg-logo="https://live.fanmingming.com/tv/斗鱼频道.png" group-title="斗鱼｜轮播",斗鱼频道
+http://zzy789.xyz/douyu1.php?id=218859
+#EXTINF:-1 tvg-id="斗鱼频道" tvg-name="斗鱼频道" tvg-logo="https://live.fanmingming.com/tv/斗鱼频道.png" group-title="斗鱼｜轮播",斗鱼频道
+http://zzy789.xyz/douyu1.php?id=413573
+#EXTINF:-1 tvg-id="斗鱼频道" tvg-name="斗鱼频道" tvg-logo="https://live.fanmingming.com/tv/斗鱼频道.png" group-title="斗鱼｜轮播",斗鱼频道
+http://zzy789.xyz/douyu1.php?id=9292492
+#EXTINF:-1 tvg-id="鬼片恐怖" tvg-name="鬼片恐怖" tvg-logo="https://live.fanmingming.com/tv/鬼片恐怖.png" group-title="斗鱼｜轮播",鬼片恐怖
+http://zzy789.xyz/douyu1.php?id=2935323
+#EXTINF:-1 tvg-id="恐怖故事" tvg-name="恐怖故事" tvg-logo="https://live.fanmingming.com/tv/恐怖故事.png" group-title="斗鱼｜轮播",恐怖故事
+http://zzy789.xyz/douyu1.php?id=2337939
+#EXTINF:-1 tvg-id="怡寳影院" tvg-name="怡寳影院" tvg-logo="https://live.fanmingming.com/tv/怡寳影院.png" group-title="斗鱼｜轮播",怡寳影院
+http://zzy789.xyz/douyu1.php?id=434971
+#EXTINF:-1 tvg-id="粤语电影" tvg-name="粤语电影" tvg-logo="https://live.fanmingming.com/tv/粤语电影.png" group-title="斗鱼｜轮播",粤语电影
+http://zzy789.xyz/douyu1.php?id=6566671
+#EXTINF:-1 tvg-id="苹果影院" tvg-name="苹果影院" tvg-logo="https://live.fanmingming.com/tv/苹果影院.png" group-title="斗鱼｜轮播",苹果影院
+http://zzy789.xyz/douyu1.php?id=2793084
+#EXTINF:-1 tvg-id="午夜故事" tvg-name="午夜故事" tvg-logo="https://live.fanmingming.com/tv/午夜故事.png" group-title="斗鱼｜轮播",午夜故事
+http://zzy789.xyz/douyu1.php?id=8722254
+#EXTINF:-1 tvg-id="译制国语" tvg-name="译制国语" tvg-logo="https://live.fanmingming.com/tv/译制国语.png" group-title="斗鱼｜轮播",译制国语
+http://zzy789.xyz/douyu1.php?id=2436390
+#EXTINF:-1 tvg-id="蚂蚱影院" tvg-name="蚂蚱影院" tvg-logo="https://live.fanmingming.com/tv/蚂蚱影院.png" group-title="斗鱼｜轮播",蚂蚱影院
+http://zzy789.xyz/douyu1.php?id=6079455
+#EXTINF:-1 tvg-id="纪录片" tvg-name="纪录片" tvg-logo="https://live.fanmingming.com/tv/纪录片.png" group-title="斗鱼｜轮播",纪录片
+http://zzy789.xyz/douyu1.php?id=4360438
+#EXTINF:-1 tvg-id="贝爷求生" tvg-name="贝爷求生" tvg-logo="https://live.fanmingming.com/tv/贝爷求生.png" group-title="斗鱼｜轮播",贝爷求生
+http://zzy789.xyz/douyu1.php?id=454867
+#EXTINF:-1 tvg-id="恐怖丧尸鬼片" tvg-name="恐怖丧尸鬼片" tvg-logo="https://live.fanmingming.com/tv/恐怖丧尸鬼片.png" group-title="斗鱼｜轮播",恐怖丧尸鬼片
+http://zzy789.xyz/douyu1.php?id=263824
+#EXTINF:-1 tvg-id="斗鱼电影10" tvg-name="斗鱼电影10" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影10.png" group-title="斗鱼｜轮播",斗鱼电影10
+http://zzy789.xyz/douyu1.php?id=2935323
+#EXTINF:-1 tvg-id="斗鱼电影22" tvg-name="斗鱼电影22" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影22.png" group-title="斗鱼｜轮播",斗鱼电影22
+http://zzy789.xyz/douyu1.php?id=1979257
+#EXTINF:-1 tvg-id="斗鱼电影26" tvg-name="斗鱼电影26" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影26.png" group-title="斗鱼｜轮播",斗鱼电影26
+http://zzy789.xyz/douyu1.php?id=8413092
+#EXTINF:-1 tvg-id="斗鱼电影71" tvg-name="斗鱼电影71" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影71.png" group-title="斗鱼｜轮播",斗鱼电影71
+http://zzy789.xyz/douyu1.php?id=2987100
+#EXTINF:-1 tvg-id="斗鱼电影81" tvg-name="斗鱼电影81" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影81.png" group-title="斗鱼｜轮播",斗鱼电影81
+http://zzy789.xyz/douyu1.php?id=3870925
+#EXTINF:-1 tvg-id="斗鱼电影97" tvg-name="斗鱼电影97" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影97.png" group-title="斗鱼｜轮播",斗鱼电影97
+http://zzy789.xyz/douyu1.php?id=8867878
+#EXTINF:-1 tvg-id="斗鱼电影105" tvg-name="斗鱼电影105" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影105.png" group-title="斗鱼｜轮播",斗鱼电影105
+http://zzy789.xyz/douyu1.php?id=4290711
+#EXTINF:-1 tvg-id="斗鱼电影108" tvg-name="斗鱼电影108" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影108.png" group-title="斗鱼｜轮播",斗鱼电影108
+http://zzy789.xyz/douyu1.php?id=6566671
+#EXTINF:-1 tvg-id="斗鱼电影110" tvg-name="斗鱼电影110" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影110.png" group-title="斗鱼｜轮播",斗鱼电影110
+http://zzy789.xyz/douyu1.php?id=8415464
+#EXTINF:-1 tvg-id="斗鱼电影111" tvg-name="斗鱼电影111" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影111.png" group-title="斗鱼｜轮播",斗鱼电影111
+http://zzy789.xyz/douyu1.php?id=8475821
+#EXTINF:-1 tvg-id="斗鱼电影113" tvg-name="斗鱼电影113" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影113.png" group-title="斗鱼｜轮播",斗鱼电影113
+http://zzy789.xyz/douyu1.php?id=5522351
+#EXTINF:-1 tvg-id="斗鱼电影114" tvg-name="斗鱼电影114" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影114.png" group-title="斗鱼｜轮播",斗鱼电影114
+http://zzy789.xyz/douyu1.php?id=562225
+#EXTINF:-1 tvg-id="斗鱼电影116" tvg-name="斗鱼电影116" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影116.png" group-title="斗鱼｜轮播",斗鱼电影116
+http://zzy789.xyz/douyu1.php?id=8651489
+#EXTINF:-1 tvg-id="斗鱼电影117" tvg-name="斗鱼电影117" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影117.png" group-title="斗鱼｜轮播",斗鱼电影117
+http://zzy789.xyz/douyu1.php?id=338759
+#EXTINF:-1 tvg-id="斗鱼电影120" tvg-name="斗鱼电影120" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影120.png" group-title="斗鱼｜轮播",斗鱼电影120
+http://zzy789.xyz/douyu1.php?id=5354713
+#EXTINF:-1 tvg-id="斗鱼电影124" tvg-name="斗鱼电影124" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影124.png" group-title="斗鱼｜轮播",斗鱼电影124
+http://zzy789.xyz/douyu1.php?id=2793084
+#EXTINF:-1 tvg-id="斗鱼电影125" tvg-name="斗鱼电影125" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影125.png" group-title="斗鱼｜轮播",斗鱼电影125
+http://zzy789.xyz/douyu1.php?id=5067952
+#EXTINF:-1 tvg-id="斗鱼电影129" tvg-name="斗鱼电影129" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影129.png" group-title="斗鱼｜轮播",斗鱼电影129
+http://zzy789.xyz/douyu1.php?id=413573
+#EXTINF:-1 tvg-id="斗鱼电影130" tvg-name="斗鱼电影130" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影130.png" group-title="斗鱼｜轮播",斗鱼电影130
+http://zzy789.xyz/douyu1.php?id=8014467
+#EXTINF:-1 tvg-id="斗鱼电影134" tvg-name="斗鱼电影134" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影134.png" group-title="斗鱼｜轮播",斗鱼电影134
+http://zzy789.xyz/douyu1.php?id=6725858
+#EXTINF:-1 tvg-id="斗鱼电影135" tvg-name="斗鱼电影135" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影135.png" group-title="斗鱼｜轮播",斗鱼电影135
+http://zzy789.xyz/douyu1.php?id=7476264
+#EXTINF:-1 tvg-id="斗鱼电影137" tvg-name="斗鱼电影137" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影137.png" group-title="斗鱼｜轮播",斗鱼电影137
+http://zzy789.xyz/douyu1.php?id=1274132
+#EXTINF:-1 tvg-id="斗鱼电影141" tvg-name="斗鱼电影141" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影141.png" group-title="斗鱼｜轮播",斗鱼电影141
+http://zzy789.xyz/douyu1.php?id=7623292
+#EXTINF:-1 tvg-id="斗鱼电影145" tvg-name="斗鱼电影145" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影145.png" group-title="斗鱼｜轮播",斗鱼电影145
+http://zzy789.xyz/douyu1.php?id=5033502
+#EXTINF:-1 tvg-id="斗鱼电影151" tvg-name="斗鱼电影151" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影151.png" group-title="斗鱼｜轮播",斗鱼电影151
+http://zzy789.xyz/douyu1.php?id=426517
+#EXTINF:-1 tvg-id="斗鱼电影153" tvg-name="斗鱼电影153" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影153.png" group-title="斗鱼｜轮播",斗鱼电影153
+http://zzy789.xyz/douyu1.php?id=8799435
+#EXTINF:-1 tvg-id="斗鱼电影155" tvg-name="斗鱼电影155" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影155.png" group-title="斗鱼｜轮播",斗鱼电影155
+http://zzy789.xyz/douyu1.php?id=4258555
+#EXTINF:-1 tvg-id="斗鱼电影158" tvg-name="斗鱼电影158" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影158.png" group-title="斗鱼｜轮播",斗鱼电影158
+http://zzy789.xyz/douyu1.php?id=8788687
+#EXTINF:-1 tvg-id="斗鱼电影165" tvg-name="斗鱼电影165" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影165.png" group-title="斗鱼｜轮播",斗鱼电影165
+http://zzy789.xyz/douyu1.php?id=8705754
+#EXTINF:-1 tvg-id="斗鱼电影169" tvg-name="斗鱼电影169" tvg-logo="https://live.fanmingming.com/tv/斗鱼电影169.png" group-title="斗鱼｜轮播",斗鱼电影169
+http://zzy789.xyz/douyu1.php?id=7528160
