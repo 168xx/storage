@@ -81,6 +81,9 @@
 	<programme channel="4K综艺" start="20241013132300 +0800" stop="20241013144300 +0800">
 		<title lang="zh">小小的追球20200107</title>
 	</programme>
+	<programme channel="4K综艺" start="20241013144300 +0800" stop="20241013160300 +0800">
+		<title lang="zh">小小的追球20200114</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -78961,6 +78964,9 @@
 	<programme channel="黑莓动画" start="20241013141200 +0800" stop="20241013143800 +0800">
 		<title lang="zh">张大牙爱搞怪第四季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241013143800 +0800" stop="20241013150500 +0800">
+		<title lang="zh">笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78990,6 +78996,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241013124300 +0800" stop="20241013143200 +0800">
 		<title lang="zh">沉默的15分钟</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241013143200 +0800" stop="20241013160500 +0800">
+		<title lang="zh">山歌</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -79615,6 +79624,9 @@
 	<programme channel="newtv超级电视剧" start="20241013135400 +0800" stop="20241013144000 +0800">
 		<title lang="zh">53_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241013144000 +0800" stop="20241013152300 +0800">
+		<title lang="zh">54_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79951,6 +79963,9 @@
 	<programme channel="newtv热播精选" start="20241013140100 +0800" stop="20241013144600 +0800">
 		<title lang="zh">06_新刑警本色</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241013144600 +0800" stop="20241013154100 +0800">
+		<title lang="zh">07_新刑警本色</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -80224,6 +80239,9 @@
 	<programme channel="newtv军事评论" start="20241013141800 +0800" stop="20241013144000 +0800">
 		<title lang="zh">偷袭纳粹机场</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241013144000 +0800" stop="20241013150200 +0800">
+		<title lang="zh">“战车行动”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80349,6 +80367,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241013142300 +0800" stop="20241013144500 +0800">
 		<title lang="zh">13_马达加斯加企鹅第一季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241013144500 +0800" stop="20241013152300 +0800">
+		<title lang="zh">轻又清菊粉复合益生元-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -80523,6 +80544,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241013140300 +0800" stop="20241013143300 +0800">
 		<title lang="zh">中国搏击十年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241013143300 +0800" stop="20241013152100 +0800">
+		<title lang="zh">39_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
