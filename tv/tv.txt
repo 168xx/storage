@@ -122,125 +122,144 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
 港澳台,#genre#
-凤凰中文,http://yuzhe.ltd:5555/udp/239.93.1.9:2192$LR•IPV4『线路130』|1920x1080
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8$LR•IPV4『线路150』
+凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?
-凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140$LR•IPV4『线路95』|1920x1080
-凤凰资讯,http://e3.woc.iiiya.cn:8888/udp/239.61.5.47:1025$LR•IPV4『线路154』|1920x1080
-凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140$LR•IPV4『线路177』|1920x1080
-凤凰资讯,http://e2.woc.iiiya.cn:8888/udp/239.61.5.47:1025$LR•IPV4『线路87』|1920x1080
-凤凰资讯,http://146.56.153.245:20121/bysid/257$1920x1080
-凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/0701phk72.m3u8
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
+凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140$1920x1080
+凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.1.4:2191$LR•IPV4『线路175』|1920x1080
+凤凰资讯,http://58.223.166.16/live2.rxip.sc96655.com/live/test2_4000.m3u8
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+凤凰香港,http://files4.3y1.xyz/media/video/no_signal_epg/no_signal0.ts$1280x720
+凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=7f8507cfa60db427e4e2182f-172952821550843&wsIPSercert=d6c6e0eb3334dae575d187fdb1f07f7a
 凤凰香港,58.57.21.166
-凤凰香港,iptvcyp.top
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8$LR•IPV4『线路3』
+凤凰香港,116.117.105.198
+凤凰香港,123.129.70.178
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$LR•IPV4『线路1』
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-无线新闻,http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
-无线新闻,117.27.190.42
-无线新闻,223.241.247.214
-无线新闻,58.51.111.46
+无线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+无线新闻,https://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+无线新闻,https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+无线财经,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+无线财经,http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8
+无线财经,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 无线财经,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-无线财经,http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-无线财经,125.93.74.27
-无线财经,58.48.37.158
-无线财经,210.22.75.86
+无线财经,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻,http://61.10.2.148:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-有线新闻,http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8
+有线新闻,http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.148:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts$LR•IPV4『线路31』|1920x1080
-翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,210.22.75.86
+翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$LR•IPV4『线路19』
 翡翠台,116.117.105.198
+翡翠台,58.57.21.166
 明珠台,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 明珠台,116.117.105.198
 明珠台,58.48.37.158
 明珠台,183.11.239.36
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+明珠台,124.128.73.58
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,http://122.152.202.33/s/81a8a44f/index.m3u8?id=13
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港佛陀,58.57.21.166
 香港佛陀,218.3.138.25
-TVB新闻,58.51.111.46
-TVB新闻,123.129.70.178
-TVB新闻,113.57.93.165
-TVB新闻,36.35.16.98
-TVB新闻,218.3.138.25
+TVB新闻,111.225.112.26
+TVB新闻,183.141.216.56$1920x1080
+TVB新闻,58.17.48.228
+TVB新闻,117.27.190.42
+TVB新闻,59.48.75.130
+TVB亚洲,183.11.239.36
+TVB亚洲,117.27.190.42
+TVB亚洲,120.224.178.16
 TVB亚洲,59.48.75.130
 TVB亚洲,58.51.111.46
-TVB亚洲,111.202.12.159
-TVB亚洲,119.142.76.36
-TVB亚洲,125.93.74.27
-TVB翡翠,183.11.239.36
+TVB翡翠,121.24.98.154
 TVB翡翠,124.128.73.58
+TVB翡翠,183.141.216.56$1920x1080
+TVB翡翠,183.11.239.36
 TVB翡翠,110.53.218.182
-TVB翡翠,iptvcyp.top
-TVB翡翠,58.57.21.166
+TVB明珠,http://files4.3y1.xyz/media/video/no_signal_epg/no_signal0.ts$1280x720
+TVB明珠,183.11.239.36
 TVB明珠,60.12.183.46
 TVB明珠,58.57.21.166
 TVB明珠,61.136.172.236
-TVB明珠,iptvcyp.top
-TVB明珠,117.27.190.42
-TVB星河,http://122.152.202.33/s/81a8a44f/index.m3u8?id=13
-TVB星河,119.142.76.36
-TVB星河,111.202.12.159
+TVB星河,https://stream1.freetv.fun/tvbxing-he-3.ctv
 TVB星河,58.48.5.186
 TVB星河,183.11.239.36
-TVB直播,61.138.128.226
-TVB直播,58.48.5.186
-TVB直播,123.129.70.178
-TVB直播,117.27.190.42
+TVB星河,218.3.138.25
+TVB星河,58.48.37.158
+TVB直播,121.24.98.232
 TVB直播,58.48.37.158
+TVB直播,27.11.251.76$1920x1080
+TVB直播,183.11.239.36
+TVB直播,120.224.178.16
+TVB plus,121.24.98.154
+TVB plus,58.220.219.14
+TVB J2,121.24.98.154
 J2,rtmp://twcdn.top/sat/hk031$1280x720
 J2,http://213.81.133.133:8080/jednotka/index.m3u8
-J2,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-J2,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-J2,210.22.75.86
-RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+J2,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33$1920x1080
+J2,61.136.172.236
+J2,58.48.5.186
+RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd$1920x1080
+RTHK32,183.11.239.36
+RTHK32,121.24.98.154
+ViuTVsix,121.24.98.154
+ViuTVsix,121.24.98.232
+ViuTVsix,112.46.85.60
+ViuTVsix,222.241.154.37
+NOWTV,121.24.98.154
+NOWTV,121.24.98.232
+NOWTV,27.11.251.76$1920x1080
+NOWTV,183.11.239.36
+HKIBC,183.11.239.36
+HKIBC,36.35.16.98
+HKIBC,218.3.138.25
+HOYTV,61.136.172.236
+HOYTV,115.230.189.122$1920x1080
 HKC18,210.22.75.86
-HKC18,http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
-HKC18,60.12.183.46
-HKC18,59.173.243.210
-HKC18,223.241.247.214
+HKC18,58.51.111.46
+HKC18,220.249.114.102
+HKC18,61.163.181.78
+HKC18,183.11.239.36
+Viutv,121.33.239.242
+Viutv,183.141.216.56$1920x1080
+MOMO2台,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 MOMO2台,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+MOMO2台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 MOMO2台,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 MOMO2台,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-MOMO2台,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
-MOMO2台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+now新闻,121.24.98.154
+now新闻,36.35.16.98
+now新闻,60.12.183.46
 now新闻,61.163.181.78
 now新闻,58.48.5.186
-now新闻,120.224.178.16
-now新闻,iptvcyp.top
-now新闻,220.249.114.102
+18台,36.35.16.98
+18台,60.12.183.46
+18台,61.136.172.236
+18台,116.117.105.198
 18台,59.48.75.130
-18台,223.241.247.214
-18台,111.202.12.159
-18台,58.57.21.166
-18台,125.93.74.27
 澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
 澳视卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-澳视卫星,125.93.74.27
-澳视卫星,124.116.183.146
-澳视卫星,36.35.16.98
-澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
+澳视卫星,121.24.98.232
+澳视卫星,58.48.5.186
+澳视卫星,27.11.251.76$1920x1080
 澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
 澳视澳门,http://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
-澳门信息,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳视澳门,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 澳门信息,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳门信息,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳门信息,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
 澳门信息,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门信息,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
@@ -256,28 +275,37 @@ now新闻,220.249.114.102
 澳门莲花,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳门葡语,http://61.244.22.4/ch2/ch2.live/index.m3u8
 澳门葡语,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-澳门葡语,1.25.118.230$1920x1080
-澳门葡语,183.11.239.36
-澳门葡语,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+澳门葡语,121.24.98.232
+澳门葡语,121.24.98.154
+澳门葡语,117.27.190.42
 澳门资讯,http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
 澳门资讯,http://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳门资讯,59.48.75.130
-澳门资讯,210.22.75.86
-澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+澳门资讯,117.27.190.42
+澳门资讯,175.0.32.62
+澳门资讯,http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
 电影频道,#genre#
- CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
+ CHC动作电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000106/index.m3u8
  CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
- 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+ 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019624/1.m3u8
  东方影视,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8
- 超级电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225644/main.m3u8
+ 黑龙江影视,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225973/main.m3u8
+ 超级电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
+ iHOT爱院线,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000030630/index.m3u8
+ iHOT爱浪漫,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000040630/index.m3u8
+ iHOT爱喜剧,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000010630/index.m3u8
+ iHOT爱悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/6610/000000001000/6000000006000050630/index.m3u8
+ iHOT爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000250630/index.m3u8
+ iHOT爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/6610/000000001000/6000000006000180630/index.m3u8
+ iHOT爱科学,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000160630/index.m3u8
 体育频道,#genre#
- 精品体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8
+ 精品体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
  睛彩竞技,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
- 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
- 超级体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8
+ 睛彩篮球,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
+ 超级体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000007755/1.m3u8
+ iHOT爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000290630/index.m3u8
 综艺频道,#genre#
  超级综艺,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000025771/1.m3u8
- 金牌综艺,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000026167/1.m3u8
+ 金牌综艺,http://[2409:8087:5e00:24::1e]:6060/000000001000/6399725674632152632/1.m3u8
 •NewTV「IPV6」,#genre#
 NewTV 哒啵赛事「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225675/index.m3u8
 NewTV 黑莓动画「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
