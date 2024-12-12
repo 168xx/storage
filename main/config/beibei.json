@@ -1,0 +1,16 @@
+{
+    "filter": [
+        "公众号",
+        "神秘的哥哥们",
+        "|",
+        "｜",
+        "防失联",
+        "关注",
+        "【",
+        "】",
+        "┃ "
+    ],
+    "prefix": "★蓓蓓影院★",
+    "band": "「涛哥工作室出品」",
+    "source": "https://gitee.com/wxbtt/bbtv/raw/master/bbtv.json"
+}
